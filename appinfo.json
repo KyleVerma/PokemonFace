@@ -1,0 +1,78 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pebble",
+    "enableMultiJS": false,
+    "longName": "Tutorial-3-3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Ho-oh",
+                "name": "IMAGE_HO_OH",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/Emerald",
+                "name": "FONT_EMERALD_12",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Emerald",
+                "name": "FONT_EMERALD_15",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Emerald",
+                "name": "FONT_EMERALD_34",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/Background",
+                "name": "POKEMON_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial-3-3",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2511cff7-f0ca-4ba8-947b-fb756a386449",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
